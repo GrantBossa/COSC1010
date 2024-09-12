@@ -29,7 +29,7 @@ county_sales_tax_amount = purchase_amount * COUNTY_SALES_TAX_RATE
 total_sales_tax_amount = state_sales_tax_amount + county_sales_tax_amount
 
 # Calculate the total of the sale.
-total_sale_amount = purchase_amount - total_sales_tax_amount
+total_sale_amount = purchase_amount + total_sales_tax_amount
 
 # Print information about the sale.
 print("Purchase Amount: $", purchase_amount) # The amount of the purchase
