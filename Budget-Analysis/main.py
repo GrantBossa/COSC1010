@@ -38,6 +38,4 @@ elif running_total < budget:
 else:
     print("You are exactly on budget.")
 
-
-
 # end of program
