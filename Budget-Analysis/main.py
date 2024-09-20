@@ -10,7 +10,7 @@
 # When the loop finishes, the program should display the amount that the user is over or under budget.
 # Use comments liberally throughout the program. 
 #
-# Variables:
+# Declare Variables:
 budget = 0  # budget amount
 monthly_expense = 0   # total of expenses for the month
 running_total = 0   # running total of expenses
