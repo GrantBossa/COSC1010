@@ -18,7 +18,7 @@ counter_day = 0                 # counter for the day.
 for counter_day in range(5):
     print(f"Day {counter_day + 1}:", end=" " * 5)
     bugs_collected_daily = int(input("Enter the number of bugs collected: "))
-    total_running +=  bugs_collected_daily
+    total_running +=  bugs_collected_daily  # add the daily bugs collected to the running total.
 
 # Display the total number of bugs collected.
 print(f"Total number of bugs collected over the five days: {total_running}")
