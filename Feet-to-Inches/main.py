@@ -1,8 +1,8 @@
 #
-# Name
-# Date
+# Grant Bossa
+# Septemtber 24, 2024
 # Feet to Inches Programming Project
-# COSC 2409 DNT
+# COSC 1010 NT
 #
 # Instructions:
 # One foot equals 12 inches. 
