@@ -1,8 +1,10 @@
 #
 # Grant Bossa  
 # September 24, 2024
+# Grant Bossa  
+# September 24, 2024
 # Kilometer Converter Programming Project
-# COSC 2409 DNT
+# COSC 1010 NT
 #
 # Instructions
 # Write a program that asks the user to enter a distance in kilometers, 
@@ -30,3 +32,5 @@ def km_to_miles(km):
 
 # Call the main function
 main()
+
+# end of program
