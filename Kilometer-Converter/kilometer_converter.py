@@ -1,8 +1,6 @@
 #
 # Grant Bossa  
 # September 24, 2024
-# Grant Bossa  
-# September 24, 2024
 # Kilometer Converter Programming Project
 # COSC 1010 NT
 #
