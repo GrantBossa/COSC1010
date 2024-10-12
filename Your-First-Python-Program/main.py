@@ -6,7 +6,4 @@
 #
 
 # This is my first Python program.
-import turtle
-if turtle.pencolor() == 'green':
-    print('yes')
-    input(' ')
+print("Hello World!")
