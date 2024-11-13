@@ -1,10 +1,14 @@
 #
-# Name
-# Date
+# Grant Bossa
+# November 13, 2024
 # Capital Quiz Programming Project
-# COSC 2409 DNT
+# 24/FA COSC 1010 NT
 #
 # Use comments liberally throughout the program. 
+# Instructions
+# Write a program that creates a dictionary containing the U.S. states as keys, and their capitals as values. (Use the Internet to get a list of the states and their capitals.) The program should then randomly quiz the user by displaying the name of a state and asking the user to enter that state’s capital. The program should keep a count of the number of correct and incorrect responses. (As an alternative to the U.S. states, the program can use the names of countries and their capitals.)
+
+# Review The Capital Quiz Problem VideoNotes. You will see the output you should have for this programming challenge as well as the code. 
 
 import random
 
@@ -37,6 +41,22 @@ def main():
                 'Wisconsin':'Madison', 'Wyoming':'Cheyenne'}
 
     # Local variables
+quitGame = false
+promptState = ""
+answerCapitol = ""
+
+# The program should then randomly quiz the user by displaying the name of a state and asking the user to enter that state’s capital.
+
+while (not quitGame) {
+# get random state records between 0 and length of capital.record_count
+
+# assign prompt and answer to record 
+promptState, answerCapital = capitals[randomSelection.0, randomSelection.1]
+
+}
+
+
+# The program should keep a count of the number of correct and incorrect responses.
 
     # Continue until user quits the game.
 
