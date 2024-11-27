@@ -22,7 +22,7 @@
 def main():
    try:
       buildList=[]
-      writeFile = open('C:\\Users\\grant\\OneDrive\\Desktop\\WWCC\\COSC1010\\File-Encryption-and-Decryption\\encrypted.txt', 'r')
+      writeFile = open('encrypted.txt', 'r')
       # print(writeFile.read())
       for line in writeFile:  # read line
          for each in line:    # replace each character with its code
