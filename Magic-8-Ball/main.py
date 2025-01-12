@@ -23,7 +23,7 @@ def main():
 
       # read the responses from the file into a list
       # Open file
-      myfile = open("COSC1010\Magic-8-Ball\8_ball_responses.txt", "r")
+      myfile = open("8_ball_responses.txt", "r")
       for line in myfile:
          counter += 1
          responses.append(line)
